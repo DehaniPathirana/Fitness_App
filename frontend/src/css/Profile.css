@@ -1,0 +1,117 @@
+.profile-card{
+    /*background-color: red;*/
+    margin-top: 6%;
+    margin-left: 20%;
+    border-radius: 10px;
+}
+
+.profile-position{
+    background-color: black;
+    /*position: absolute;*/
+}
+
+.pro-img{
+    position: relative;
+    width: 70%;
+}
+
+.ava{
+    width: 10%;
+    position:relative;
+    margin-top: -70px;
+}
+
+
+
+
+
+
+
+
+
+/*!*user feed*!*/
+/*!*.user-profile{*!*/
+/*!*    width: 72%;*!*/
+/*!*    background-color: grey;*!*/
+/*!*    margin-left: 23%;*!*/
+/*!*    border-radius: 5px;*!*/
+/*!*    margin-top: 2%;*!*/
+/*!*}*!*/
+
+/*!*.tabs{*!*/
+/*!*    width: 80%;*!*/
+/*!*    height: 50px;*!*/
+/*!*    margin-left: 9%;*!*/
+/*!*    border-radius: 5px;*!*/
+/*!*}*!*/
+
+/*!*.timeline{*!*/
+/*!*    background-color: green;*!*/
+/*!*}*!*/
+
+
+
+
+
+
+
+
+
+
+
+/*.user-profile {*/
+/*    font-family: Arial, sans-serif;*/
+/*}*/
+
+/*.tabs {*/
+/*    margin-bottom: 20px;*/
+/*}*/
+
+/*.tabs button {*/
+/*    background-color: #f2f2f2;*/
+/*    border: none;*/
+/*    outline: none;*/
+/*    cursor: pointer;*/
+/*    padding: 10px 20px;*/
+/*    font-size: 16px;*/
+/*    transition: background-color 0.3s ease;*/
+/*}*/
+
+/*.tabs button.active {*/
+/*    background-color: #ccc;*/
+/*}*/
+
+/*.timeline {*/
+/*    display: none;*/
+/*}*/
+
+/*.about {*/
+/*    display: none;*/
+/*}*/
+
+/*.about.active,*/
+/*.timeline.active {*/
+/*    display: block;*/
+/*}*/
+
+/*.post {*/
+/*    background-color: #f9f9f9;*/
+/*    padding: 10px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
+
+.timeline{
+    margin-left: 19%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pro-tab{
+    margin-left: 28%;
+}
+
+.prof-tab{
+    width: 60%;
+    height: 40px;
+}
+
